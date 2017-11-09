@@ -3,6 +3,9 @@
   <li> I'm </li>
   <li> the best </li>
   </ol>
+  <br>
+  </br>
+  <hr>
 
 
 ## Welcome to GitHub Pages
