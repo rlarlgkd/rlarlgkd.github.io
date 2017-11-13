@@ -1,5 +1,5 @@
-.bold{ font-size: 42px}
-.red{ color: red}
+h1.bold{ font-size: 42px}
+h1.red{ color: red}
 
 <ol>
   <li> muhahaha </li>
@@ -9,7 +9,7 @@
   <br>
   <br/>
   <hr>
-  <h1 class = "bold red"> Kihang Kim </h1>
+  <h1 class = "bold red"> Keegan Kim rules!</h1>
   
 
 
