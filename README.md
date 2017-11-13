@@ -1,3 +1,9 @@
+h1.bold{font-size:42px;}
+h1.red{color:red;}
+
+<!DOCTYPE html>
+<html>
+  <body>
 <ol>
   <li> muhahaha </li>
   <li> I'm </li>
@@ -7,6 +13,8 @@
   <br/>
   <hr>
   <h1 class = "bold red"> Keegan Kim rules!</h1>
+    </html>
+  </body>
   
 
 
