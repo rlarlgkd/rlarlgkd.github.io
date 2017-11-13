@@ -1,6 +1,3 @@
-h1.bold{ font-size: 42px}
-h1.red{ color: red}
-
 <ol>
   <li> muhahaha </li>
   <li> I'm </li>
