@@ -1,3 +1,6 @@
+.bold{ font-size: 42px}
+.red{ color: red}
+
 <ol>
   <li> muhahaha </li>
   <li> I'm </li>
@@ -6,6 +9,8 @@
   <br>
   <br/>
   <hr>
+  <h1 class = "bold red"> Kihang Kim </h1>
+  
 
 
 ## Welcome to GitHub Pages
